@@ -16,10 +16,10 @@ IFP-based scoring functions
 	   - Model construction
 	     'PDBbind_refined' data folder: PDBbind refined set (http://www.pdbbind.org.cn/)	   
 	   - validation
-	     'PDBbind_core' data folder: PDBbind core set (http://www.pdbbind.org.cn/)	   
-	     'csarhiqS1' data folder: CSAR-HiQ sets 1 (http://www.csardock.org/)
-	     'csarhiqS2' data folder: CSAR-HiQ sets 2 (http://www.csardock.org/)
-	     'csarhiqS3' data folder: CSAR-HiQ sets 3 (http://www.csardock.org/)
+	     - 'PDBbind_core' data folder: PDBbind core set (http://www.pdbbind.org.cn/)	   
+	     - 'csarhiqS1' data folder: CSAR-HiQ sets 1 (http://www.csardock.org/)
+	     - 'csarhiqS2' data folder: CSAR-HiQ sets 2 (http://www.csardock.org/)
+	     - 'csarhiqS3' data folder: CSAR-HiQ sets 3 (http://www.csardock.org/)
 
 	2) Preprocessing:	
 	   - PDBbind refined/core sets: save the ligand files as PDB files (e.g. using software like UCSF Chimera)	   
